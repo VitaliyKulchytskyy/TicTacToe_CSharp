@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad2888c0_002D911e_002D46bd_002Dab91_002D07733903b244/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WinChecker" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7E766C68-0F0D-4727-AD3E-E1CA994907DC::net6.0::Test.WinChecker&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4bdb681_002De51c_002D4787_002Dab30_002D17f61535aa0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;TicTacToe&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7E766C68-0F0D-4727-AD3E-E1CA994907DC::net6.0::Test.WinChecker+HorizontalLine&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7E766C68-0F0D-4727-AD3E-E1CA994907DC::net6.0::Test.WinChecker+VerticalLine&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7E766C68-0F0D-4727-AD3E-E1CA994907DC::net6.0::Test.NextWinPosition+FindExistsWinPosition&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7E766C68-0F0D-4727-AD3E-E1CA994907DC::net6.0::Test.NextWinPosition+FindNonExistentWinPosition&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
